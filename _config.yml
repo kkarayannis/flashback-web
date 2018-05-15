@@ -23,7 +23,7 @@ twitter_username: photo_flashback
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman-blog
 plugins:
   - jekyll-feed
 
