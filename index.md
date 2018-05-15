@@ -8,6 +8,7 @@ Photo Flashback is a simple app that shows all the photos on your iPhone, iPad a
 MacStories.net: Once you’ve put all your photos together you deserve an app to easily relive all your memories and discover old pictures again. Photo Flashback does exactly this.
 
 AppAdvice: It’s a simple but smart app, and one users will enjoy. Now, however, Photo Flashback is even better.
+
 ***
 
 Be surprised every day! You can also look up any day of the year, perfect for special occasion days like birthdays and anniversaries!
